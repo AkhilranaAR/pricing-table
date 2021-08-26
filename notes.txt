@@ -5,3 +5,6 @@
 3. -webkit-linear-gradient: As for Chrome 
 4. linear-gradient: See MDN Docs.
 5. ::after ---See Docs.
+6. @media queries
+7. Done without extra container
+8. Completed Project
